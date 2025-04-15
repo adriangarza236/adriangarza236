@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, my name is Adrian 🙂</h1>
-  <a href="www.linkedin.com/in/adrian-garza-a85a94322" target="_blank">
+  <a href="https://www.linkedin.com/in/adrian-garza-a85a94322" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">
   </a>
   <a href="mailto:adriangarza236@yahoo.com" target="_blank">
