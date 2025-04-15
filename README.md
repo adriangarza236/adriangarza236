@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hello, my name is Adrian 🙂</h1>
-  <a href="https://github.com/adriangarza236/adriangarza236/blob/main/README.md" target="_blank">
-    <img src=https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png alt="LikedIn" width="50" height="50"
+  <a href="www.linkedin.com/in/adrian-garza-a85a94322" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">
   </a>
   <a href="mailto:adriangarza236@yahoo.com" target="_blank">
     <img src=https://images.fastcompany.com/image/upload/wp-cms/uploads/2019/09/6-yahoos-new-logo.jpg alt="Yahoo" width="50" height="50"
